@@ -22,7 +22,11 @@ O **Jogo do Número Secreto** é um projeto desenvolvido para praticar conceitos
 
 ## 🚀 Como Executar o Projeto
 
-Siga os passos abaixo para rodar o projeto localmente:
+<h3> Teste ele online ✨ </h3>
+
+https://jogoofc.vercel.app/
+
+ou siga os passos abaixo para rodar o projeto localmente:
 
 ### Pré-requisitos
 
